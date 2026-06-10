@@ -35,3 +35,9 @@ Redémarre Claude Code. C'est tout.
 ## Origine
 
 Adapté de [videvjs/claude-statusline](https://github.com/videvjs/claude-statusline) pour Windows (Python natif au lieu de bash).
+
+## Désinstallation
+
+1. Supprimer le fichier `C:\Users\<username>\.claude\statusline-command.py`
+2. Supprimer le bloc `statusLine` dans `C:\Users\<username>\.claude\settings.json`
+3. Redémarrer Claude Code
