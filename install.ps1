@@ -1,3 +1,5 @@
+[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+[Console]::InputEncoding = [System.Text.Encoding]::UTF8
 # Claude Status Line - Windows Installer
 # https://github.com/admmo01/status-line-claude
 
