@@ -16,7 +16,7 @@ Status line pour Claude Code sur Windows — affiche le dossier, la branche git,
 Dans **PowerShell en admin** :
 
 ```powershell
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/admmo01/status-line-claude/main/install.ps1" -OutFile "$env:TEMP\install.ps1"; powershell -ExecutionPolicy Bypass -File "$env:TEMP\install.ps1"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/admmo01/status-line-claude/master/install.ps1" -OutFile "$env:TEMP\install.ps1"; powershell -ExecutionPolicy Bypass -File "$env:TEMP\install.ps1"
 ```
 
 Redémarre Claude Code. C'est tout.

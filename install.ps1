@@ -2,7 +2,7 @@
 # https://github.com/admmo01/status-line-claude
 
 $claudeDir = "$env:USERPROFILE\.claude"
-$scriptUrl = "https://raw.githubusercontent.com/admmo01/status-line-claude/main/statusline-command.py"
+$scriptUrl = "https://raw.githubusercontent.com/admmo01/status-line-claude/master/statusline-command.py"
 $scriptPath = "$claudeDir\statusline-command.py"
 $settingsPath = "$claudeDir\settings.json"
 
