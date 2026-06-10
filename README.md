@@ -32,8 +32,6 @@ Redémarre Claude Code. C'est tout.
 | `5h` | Rate limit 5h avec countdown |
 | `7d` | Rate limit 7j (affiché seulement au-dessus de 30%) |
 
-Adapté de [videvjs/claude-statusline](https://github.com/videvjs/claude-statusline) pour Windows (Python natif au lieu de bash).
-
 ## Désinstallation
 
 1. Supprimer le fichier `C:\Users\<username>\.claude\statusline-command.py`
